@@ -1,6 +1,6 @@
-package com.example.demo.repository;
+package com.example.smarttask.repository;
 
-import com.example.demo.model.User;
+import com.example.smarttask.models.User;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import java.util.Optional;
 
